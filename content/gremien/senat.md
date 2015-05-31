@@ -16,4 +16,4 @@ Der Akademische Senat ist das höchste Gremium der TU Berlin. Er setzt sich aus 
  -Festsetzung der Studierenden-Anfängerzahlen
  -Kommentierung des Haushaltes
  -Einrichtung von TU-Außenstellen und Beschluss über Kooperationen
- -Kandidaten-Vorschläge für das Präsidialamt (zusammen mit dem Kuratorium)
+ -Kandidaten-Vorschläge fürs Präsidialamt (zusammen mit dem Kuratorium)
