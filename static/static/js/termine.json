@@ -5,34 +5,24 @@
     "name": "Dummy Termin"
 },
 {
-    "Datum": "13.04.2015",
-    "Uhrzeit": "9:30",
-    "name": "Erstsemester Einführungsveranstaltung Physik"
-},
-{
-    "Datum": "13.04.2015",
-    "Uhrzeit": "19:00",
-    "name": "Erstiabend in der <a href='http://www.kulturfabrik-moabit.de/kufa/'>Kulturfabrik Moabit</a>"
-},
-{
-    "Datum": "14.04.2015",
-    "Uhrzeit": "12:00",
-    "name": "Erstsemester Brunch im Atomic"
-},
-{
     "Datum": "13.06.2015",
     "Uhrzeit": "17:00",
     "name": "Lange Nacht der Wissenschaft"
 },
 {
-    "Datum": "10.07.2015",
-    "Uhrzeit": "16:00",
-    "name": "Fakultätstag Physik"
+    "Datum": "15.06.-19.06.2015",
+    "Uhrzeit": "9:45 Uhr bis 16:15 Uhr",
+    "name": "Wahlen zum XXXVI. Studierendenparlament"
 },
 {
     "Datum": "09.07.2015",
     "Uhrzeit": "15:00",
     "name": "TU-Berlin Sommerfest 2015"
+},
+{
+    "Datum": "10.07.2015",
+    "Uhrzeit": "16:00",
+    "name": "Fakultätstag Physik"
 },
 {
     "Datum": "12.07.2015",
